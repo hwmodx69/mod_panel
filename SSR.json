@@ -1,6 +1,6 @@
 {
   "maintenance": false,
-  "login": true,
+  "login": false,
   "toast": false,
   "notice": "Mod under maintenance! Please check Telegram."
 }
